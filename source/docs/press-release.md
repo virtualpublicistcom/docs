@@ -43,28 +43,9 @@ Click the Create Press Release button to start drafting a new press release. You
 You’ll also find additional tools:
 
 - Generate Content: Use AI to help write or improve your press release.
-- Load a Template: Start with a press release template for faster drafting.
-- Reset Message: Clear all fields and start fresh if needed.
+- Reset: Clear all fields and start fresh if needed.
 
 ![Alt text](/assets/images/VP_Press-Release-form.png)
-
----
-
-### Generate a Press Release by Completing the Questionnaire
-If you prefer guided help, you can create a press release by answering a simple form. Click Complete the Questionnaire to begin. The form includes questions about your musical journey and background, such as:
-
-- **Where were you born and raised, and where are you currently based (city)?**
-- **What made you decide to officially step into the music industry? How did you start, and what has your journey been like so far?**
-- **Growing up, how did your surroundings/environment help shape your sound?**
-- **What inspires you the most to create?**
-
-> Provide detailed, engaging answers to ensure a compelling press release.
-
----
-
-### Generate Your Press Release
-- Once you've completed answering the questions, click the **"Create Press Release"** button.
-- The **Press Release Generator** will automatically create a professional press release based on your responses.
 
 ---
 

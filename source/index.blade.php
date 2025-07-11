@@ -15,7 +15,11 @@
             </div>
         </div>
 
+<<<<<<< HEAD
         <img src="{{ $page->baseUrl }}/assets/img/logo-large.svg" alt="{{ $page->siteName }} large logo" class="mx-auto mb-6 lg:mb-0 max-w-96 opacity-40">
+=======
+        <img src="/assets/img/logo-larg-vp.svg" alt="{{ $page->siteName }} large logo" class="mx-auto mb-6 lg:mb-0 max-w-96 opacity-40">
+>>>>>>> db769f4 (new changes of kb logo)
     </div>
 
     <hr class="block my-8 border lg:hidden">

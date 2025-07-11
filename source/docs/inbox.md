@@ -27,12 +27,6 @@ Upon clicking the Inbox, you'll see two primary sections:
 ### **Inbox**
 This is where you'll receive and manage incoming messages resulting from your outreach campaigns.
 
-Use the dropdown menu to filter emails by:
-
-- **All**: View all received emails.
-- **Unread**: Quickly access emails you haven't opened yet.
-- **Archived**: Easily review emails you've archived previously.
-
 ### **Archived**
 Access your **archived emails** here to review previous messages and keep track of your communications.
 

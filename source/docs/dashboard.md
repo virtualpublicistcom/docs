@@ -32,7 +32,7 @@ Quick shortcuts for common campaigns:
 
 ### Find Contacts
 
-By clicking on Find Contacts or the Search tab in the dashboard, you’ll access the advanced search page. Here, you can browse and find specific contacts or lists tailored to your needs.
+By clicking on Find Verified Media Contacts or the Search tab in the dashboard, you’ll access the advanced search page. Here, you can browse and find specific contacts or lists tailored to your needs.
 
 ---
 
@@ -49,7 +49,7 @@ Connecting early with newly added contacts increases your chances of getting not
 
 - **Dashboard**: Home page with a summary of activities and quick access tools.
 - **Virtual Assistant**: Get AI-driven support and suggestions for your campaigns.
-- **Press Releases**: Manage and create press releases.
+- **Press Release**: Manage and create press releases.
 - **Search**: Quickly find specific contacts, campaigns, or content.
 - **Smart Lists**: Organize contacts into curated lists.
 - **Inbox**: Check messages and replies to your outreach.  
@@ -66,9 +66,10 @@ Displays your **current plan** (e.g., _Free Plan_) along with your **name and em
 
 ## Dropdown Menu Options
 
+- **Messages**
+- **Contact Reach**
 - **Public Profile**
 - **Settings**
-- **Account Settings** (includes profile settings, social channels, password, appearance)
 - **Log Out**
 - **Upgrade Plan**
 

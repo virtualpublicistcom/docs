@@ -37,8 +37,7 @@ Launching your first outreach **campaign** on **Virtual Publicist** can help you
 When composing a message, the Message Body section offers several helpful tools to streamline your writing and editing process:
 
 - **AI Generate Email** - Use the AI-powered button to instantly generate a draft email based on your needs or prompts.
-- **Load Template** - Select from a variety of email templates to speed up your workflow and maintain consistency.
-- **Reset Email** - Clear the current message body and start fresh with a single click.
+- **Reset** - Clear the current message body and start fresh with a single click.
 
 ---
 
@@ -48,6 +47,7 @@ When composing a message, the Message Body section offers several helpful tools 
 - **Add Paragraph/Text**: Click the plus (+) button to insert a new paragraph or text block wherever you need more detail.
 - **Upload Image**: Use the image button to upload and embed images directly into your message.
 - **Move Paragraphs**: Rearrange your content by moving paragraphs up or down within the message body for better structure and flow.
+- **Smart Para**: Instantly generate fresh paragraphs by providing a short prompt, helping you add new ideas or improve existing text.
 
 ---
 

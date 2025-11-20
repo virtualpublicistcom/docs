@@ -113,7 +113,8 @@ As your career or brand grows, **Virtual Publicist grows with you.**
   <div style="flex: 1;">
     <strong style="font-size: 1.2em;"> Level Up Your Music Game</strong><br>
     <span style="font-size: 0.95em;">
-      Sign up now, and let Virtual Publicist make it a perfect experience designed specifically for you and your needs
+      Access industry contacts, pitch your next release, and let AI handle the heavy lifting. Trusted by 1000s of rising artists.
+
     </span>
   </div>
   <div>

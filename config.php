@@ -11,7 +11,7 @@ return [
     'production' => env('APP_ENV') === 'production',
 
     'siteName' => 'Virtual Publicist Documentation',
-    'siteDescription' => 'Your go-to guide for mastering music PR with AI-powered tools.',
+    'siteDescription' => 'Unlock the Music Business. Virtual Publicist is your direct gateway to the global industry, providing the access, intelligence, and AI infrastructure you need to scale.',
 
     // Algolia DocSearch credentials
     'docsearchApiKey' => env('DOCSEARCH_KEY'),

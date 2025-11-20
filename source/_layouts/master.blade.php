@@ -44,8 +44,8 @@
             <div class="container flex items-center max-w-8xl mx-auto px-4 lg:px-8">
                 <div class="flex items-center">
                     <a href="{{ $page->baseUrl }}" title="{{ $page->siteName }} home" class="inline-flex items-center">
-                        <img class="h-6 md:h-8 mr-3" src="{{ $page->baseUrl }}/assets/img/logo.svg" alt="{{ $page->siteName }} logo" />
-                        <h1 class="text-lg md:text-2xl text-blue-900 font-semibold hover:text-blue-600 my-0 mt-1 pr-4">Knowledge Base</h1>
+                        <img class="h-6 md:h-8 mr-3" src="{{ $page->baseUrl }}/assets/img/vp-logo.svg" alt="{{ $page->siteName }} logo" />
+                        <h1 class="text-lg md:text-2xl text-blue-900 font-semibold hover:text-blue-600 my-0 mt-1 pr-4"></h1>
                     </a>
                 </div>
 

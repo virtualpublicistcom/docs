@@ -1,0 +1,40 @@
+name: Deploy to GitHub Pages
+
+on:
+  push:
+    branches: [master]
+
+jobs:
+  build-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Setup PHP
+        uses: shivammathur/setup-php@v2
+        with:
+          php-version: '8.2'
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '18'
+
+      - name: Install Composer dependencies
+        run: composer install --no-dev --prefer-dist
+
+      - name: Install npm dependencies
+        run: npm ci
+
+      - name: Build production site
+        run: vendor/bin/jigsaw build production
+
+      - name: Build production assets
+        run: npm run prod
+
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./build_production
+          cname: docs.virtualpublicist.ai

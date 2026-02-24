@@ -1,7 +1,7 @@
 <?php
 
 return [
-    'baseUrl' => 'https://virtualpublicist.github.io/docs',
+    'baseUrl' => 'https://docs.virtualpublicist.ai',
     'production' => true,
 
     // DocSearch credentials

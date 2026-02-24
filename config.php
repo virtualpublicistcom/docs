@@ -5,7 +5,7 @@ use Illuminate\Support\Str;
 return [
     // Auto-switch between dev and production
     'baseUrl' => env('APP_ENV') === 'production'
-        ? 'https://virtualpublicist.github.io/docs'
+        ? 'https://docs.virtualpublicist.ai'
         : 'http://localhost:3000',
 
     'production' => env('APP_ENV') === 'production',

@@ -19,7 +19,7 @@ Let’s explore how it works!
 After logging into Virtual Publicist, keeping track of your press releases is simple:
 
 1. From the left menu, select **“Press Releases.”**
-2. You’ll find a list of everything you’ve created in one place.
+2. You’ll find a list of everything you’ve created in one place .
 
 Each press release includes handy options:
 
